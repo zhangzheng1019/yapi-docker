@@ -1,4 +1,5 @@
-mongo/db/*
-mongo/log/*
+mongo/db/**
+mongo/log/**
 yapi-src/vendor/node_modules
+yapi-src/log/*.log
 

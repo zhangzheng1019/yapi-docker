@@ -12,10 +12,10 @@
       "enable": true,
       "host": "smtp.exmail.qq.com",
       "port": 465,
-      "from": "support@indirectionnet.com",
+      "from": "support@qq.com",
       "auth": {
-        "user": "support@indirectionnet.com",
-        "pass": "xr5yiVcsFLS3VS2i"
+        "user": "support@qq.com",
+        "pass": "password"
       }
     }
   },
